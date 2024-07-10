@@ -16,7 +16,7 @@ _"وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَك
 
 I'm a passionate and dedicated mobile software developer with a focus on creating seamless and efficient mobile applications. Currently, I'm a Computer Science student at Zagazig University, where I am continually honing my skills in mobile development and software engineering.
 
-With a strong foundation in programming and a keen interest in the latest technologies, I aim to build innovative solutions that improve user experiences. I have hands-on experience with various programming languages and tools that are essential for mobile app development, including Flutter, Firebase, Android Studio, and more.
+With a strong foundation in Object-Oriented Programming (OOP) and Data Structures and Algorithms, I aim to build innovative solutions that improve user experiences. I have hands-on experience with various programming languages and tools that are essential for mobile app development, including Flutter, Firebase, Android Studio, and more.
 
 My journey in the tech world is driven by a relentless pursuit of knowledge and excellence. I believe in the power of collaboration and am always eager to connect with like-minded professionals and enthusiasts. If you're looking for a dedicated and skilled developer to join your team or collaborate on exciting projects, feel free to reach out!
 
