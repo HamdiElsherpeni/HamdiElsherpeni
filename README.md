@@ -14,34 +14,33 @@ _"وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَك
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a Computer Science student who is passionate about Flutter.
+I'm a passionate and dedicated mobile software developer with a focus on creating seamless and efficient mobile applications. Currently, I'm a Computer Science student at Zagazig University, where I am continually honing my skills in mobile development and software engineering.
 
-- 🎓 &nbsp; I’m currently a student at Zagazig Unversity.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Some Knowlage in HTML and CSS. 
-- 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/hamdi--mohammed)   OR   [Gmail](https://hamdimohame22@gmail.com)
+With a strong foundation in programming and a keen interest in the latest technologies, I aim to build innovative solutions that improve user experiences. I have hands-on experience with various programming languages and tools that are essential for mobile app development, including Flutter, Firebase, Android Studio, and more.
+
+My journey in the tech world is driven by a relentless pursuit of knowledge and excellence. I believe in the power of collaboration and am always eager to connect with like-minded professionals and enthusiasts. If you're looking for a dedicated and skilled developer to join your team or collaborate on exciting projects, feel free to reach out!
+
+- 🎓 &nbsp; I’m currently a student at Zagazig University.
+- 🌱 &nbsp; Exploring various aspects of mobile development and software engineering within the mobile domain. 
+- 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/hamdi--mohammed) OR [Gmail](mailto:hamdimohame22@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
-
 - 💻 &nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=c%2B%2B)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
-![HTML](https://img.shields.io/badge/-HTML5-333333??style=flat&logo=html5&logoColor=red)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
-![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk&logoColor=red)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 - ⚙️ &nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
+![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=1575F9)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-- 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-333333?style=flat&logo=arduino&logoColor=blue)
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=blue)
-![Proteus](https://img.shields.io/badge/Proteus-333333?style=flat&logo=proteus&logoColor=blue&style=for-the-badge)
-
-  
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,7 +76,7 @@ I'm a Computer Science student who is passionate about Flutter.
 <br />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###  🌐 Socail Media and Connect
+###  🌐 Social Media and Connect
 <p align="center">I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to reach out to me via email or connect with me on social media. Let's connect, inspire each other, and create amazing things together!</p>
 <div align="center">
 <div align="left">
@@ -100,10 +99,9 @@ I'm a Computer Science student who is passionate about Flutter.
     <img src="https://img.shields.io/badge/Discord-d20962?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
   <a href="https://wa.me/qr/DGDDALB4T5OGG1">
-<img src="https://img.shields.io/badge/Whatsapp-d20962?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" />
+    <img src="https://img.shields.io/badge/Whatsapp-d20962?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp" />
   </a>
 </div>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
 </p>
-<!--- 💼 &nbsp; Working as an Embedded firmware internship at GOODIX Egypt.--!>
